@@ -1,5 +1,5 @@
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/TechwithAmee1/dragon-secktor-md /root/TechwithAmee1
+RUN git clone https://github.com/TechwithAmee1/Dragon-MD-V4 /root/TechwithAmee1
 WORKDIR /root/TechwithAmee1/
 RUN npm install npm@latest
 RUN yarn install --network-concurrency 1
