@@ -1,8 +1,8 @@
 {
-  "name": "Secktor-Md",
+  "name": "Dragon-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device"],
+  "logo": "https://i.ibb.co/wRgDy33/20221104-225109.png",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Dragon-MD-V4", "DragonBot", "Dragon","DragonMD","multi device"],
   "success_url": "/",
   "stack": "container",
 "env": {
@@ -24,18 +24,13 @@
     },
    "ANTILINK_VALUES": {
     "description": "Put words for antilink",
-     "value": "chat.whatsapp.com,fb.com,instagram.com",
+     "value": "chat.whatsapp.com",
      "required" :false
     },
      "ANTILINK_ACTION": {
     "description": "Put action for antilink",
      "value": "remove",
      "required" :false
-    },
-  "LEVEL_UP_MESSAGE": {
-    "description": "Fill the value true if you want bot send Level up message in chat.",
-     "required" :false,
-     "value": "true"
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
@@ -52,7 +47,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94767553646"
+       "value": "94767453646"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
@@ -71,25 +66,30 @@
     "description": "A secret String for Mongodb Connection.(Required)"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
+    "description": "Put the theme name you want to use. Avilable themes are SI , EN",
      "value": "SI"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
          "value": "public"
   },
-      "AUTO_REACTION": {
-    "description": "Reacts emoji to all commands.",
-     "value": "false",
-     "required": false 
-  },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "SamPandey001;Secktor",
+     "value": "Ameesha;Dragon-MD",
      "required": false 
   },
-  "heroku": {
+  "HEROKU": {
     "description": "Weather it is on heroku or not",
+     "value": "true",
+     "required": false 
+  },
+  "HEROKU_API_KEY": {
+    "description": "Yur heroku Api Key get from - https://dashboard.heroku.com/account",
+     "value": "true",
+     "required": false 
+  },
+  "HEROKU_APP_NAME": {
+    "description": "Your Heroku App Name",
      "value": "true",
      "required": false 
   }
