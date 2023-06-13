@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Eren Yeager"
+      "value": "Mr.Ameesha"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
