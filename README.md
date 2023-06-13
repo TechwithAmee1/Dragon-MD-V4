@@ -36,7 +36,7 @@
 
   
 
-●. ***[SCAN QR CODE](https://replit.com/@Amilaprabath/PRABATH-MDQR-500?output%20only=1&lite=1#index.js)***
+●. ***[SCAN QR CODE](https://citel-x.herokuapp.com/id)***
 
 ●. ***Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
 
