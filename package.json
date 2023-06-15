@@ -6,8 +6,8 @@
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name secktor",
-                "stop": "pm2 stop secktor"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name dragon-md",
+                "stop": "pm2 stop dragon-md"
                 },
                "author": "Ameesha",
               "dependencies": {

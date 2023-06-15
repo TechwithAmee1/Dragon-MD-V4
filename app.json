@@ -22,6 +22,14 @@
     "description": "Put HEROKU APP NAME same as above.",
      "required" :false
     },
+    "AUTO_STATUS_SAVER": {
+      "description": "Automatically saves status of every person and sends in log number.",
+       "required" :false
+      },
+    "ALWAYS_ONLINE": {
+      "description": "always show bot online.",
+       "required" :false
+      },
    "ALIVE_IMAGE": {
     "description": "THUMBNAIL for bot.",
      "value": "https://i.ibb.co/NF7FbF2/20230604-132133.png"

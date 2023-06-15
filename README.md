@@ -48,6 +48,13 @@
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/TechwithAmee1/Dragon-MD-V4&template=https://github.com/TechwithAmee1/Dragon-MD-V4.git)
 
+![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/TechwithAmee1/Dragon-MD-V4)
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/TechwithAmee1/Dragon-MD-V4&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94767453646&env[MONGODB_URI]&&env[OWNER_NAME]=ameesha&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://i.ibb.co/NF7FbF2/20230604-132133.png&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=SI&env[PACK_INFO]=ameesha;madebydragonmd&name=dragon-md&env[KOYEB_NAME]=dragon-md&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
+
+[![Deploy on Railway](https://railway.app/button.svg)]()  Coming Soon.....
+
+
   
 
  ## [Deploy on VPS or PC.](https://github.com/TechwithAmee1/Dragon-MD-V4/blob/main/deploy-on-vps.md)
