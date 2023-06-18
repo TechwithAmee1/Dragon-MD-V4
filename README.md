@@ -52,6 +52,10 @@
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/TechwithAmee1/Dragon-MD-V4&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94767453646&env[MONGODB_URI]&&env[OWNER_NAME]=ameesha&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://i.ibb.co/NF7FbF2/20230604-132133.png&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=SI&env[PACK_INFO]=ameesha;madebydragonmd&name=dragon-md&env[KOYEB_NAME]=dragon-md&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
 
+[![Deploy on Uffizzi](https://telegra.ph/file/e464e609e43eb3dfdc144.png)](https://app.uffizzi.com/projects)
+  
+[![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
+ 
 [![Deploy on Railway](https://railway.app/button.svg)]()  Coming Soon.....
 
 
