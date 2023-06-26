@@ -3,7 +3,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 //═══════[Required Variables]════════\\
 global.owner = process.env.OWNER_NUMBER.split(",")
-global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'amiyaprogramer@gmail.com'
 global.github = 'https://github.com/TechwithAmee1/Dragon-MD-V3'
@@ -36,6 +36,7 @@ module.exports = {
   antilinkaction: process.env.ANTILINK_ACTION || 'remove',
   BRANCH: 'dragon-md',
   ALIVE_MESSAGE: process.env.ALIVE_MESSAGE || `💯 _*Deverloper*_ :- _៚֟ᴍ֢ʀͥ.ᴀͣᴍͫᴇ̐̈́ᴇ͖ꜱ͒ʜ͙ᴀ֮͢༒֩͢⁸⁵⁴¹༆࿐_\n💯 _*Owner*_ :- _${process.env.OWNER_NAME}_\n💯 _*Bot Name*_ :- 🐉 ᎠᎡᎪᏀϴΝ-ᙢᎠ-Ꮙ4 🧬\n💯 _*Vertion*_ :- 🐉 _Dragon MD V4.0_ ♾\n\n_🐉 .𝚊𝚕𝚒𝚟𝚎 = 𝚋𝚘𝚝 𝚒𝚜 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚑𝚎𝚌𝚔_\n_🐉 .𝚖𝚎𝚗𝚞 = 𝚐𝚎𝚝 𝚋𝚘𝚝 𝚖𝚎𝚗𝚞_\n_🐉 .song = 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚜𝚘𝚗𝚐_\n_🐉 .video = 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚟𝚒𝚍𝚎𝚘_\n_🐉 .yt = 𝚜𝚎𝚊𝚛𝚌𝚑 𝚒𝚗 𝚢𝚘𝚞𝚝𝚞𝚋𝚎_`,
+  autobio:  process.env.AUTO_BIO === undefined ? false : process.env.AUTO_BIO,
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || 'put-key-here',
   heroku: process.env.heroku || false,
   HEROKU: {

@@ -24,10 +24,17 @@
     },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
+       "value": "false",
+       "required" :false
+      },
+    "AUTO_BIO": {
+      "description": "Automatically change bot bio",
+       "value": "false",
        "required" :false
       },
     "ALWAYS_ONLINE": {
-      "description": "always show bot online.",
+       "description": "always show bot online.",
+       "value": "true",
        "required" :false
       },
    "ALIVE_IMAGE": {
@@ -74,7 +81,9 @@
        "required" :false
   },
   "MONGODB_URI": {
-    "description": "A secret String for Mongodb Connection.(Required)"
+    "description": "A secret String for Mongodb Connection.(Replace for better experience)",
+    "value": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
+    "required" :false
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are SI , EN",
