@@ -22,8 +22,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{TechwithAmee1}/count.svg" alt="TechwithAmee1 :: Visitor's Count" /></p>
 
 <p align="center">
- 🔴 
-  <a href="https://github.com/TechwithAmee1"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=Dragon+Multi+Device;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+   <a href="https://github.com/TechwithAmee1"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=Dragon+Multi+Device;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 ---
@@ -50,6 +49,7 @@
 
 ---
 
+## Heroku Deployment Method
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/TechwithAmee1/Dragon-MD-V4&template=https://github.com/TechwithAmee1/Dragon-MD-V4.git)
 
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/TechwithAmee1/Dragon-MD-V4)
