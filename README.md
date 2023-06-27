@@ -58,6 +58,8 @@
  
 [![Deploy on Railway](https://railway.app/button.svg)]()  Coming Soon.....
 
+.[![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
+
 
   
 
