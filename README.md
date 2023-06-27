@@ -22,7 +22,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{TechwithAmee1}/count.svg" alt="TechwithAmee1 :: Visitor's Count" /></p>
 
 <p align="center">
- 🔴 <a href="https://github.com/TechwithAmee1"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Dragon+Multi+Device;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+ 🔴 
+  <a href="https://github.com/TechwithAmee1"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=Dragon+Multi+Device;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 ---
