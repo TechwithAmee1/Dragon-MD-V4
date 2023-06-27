@@ -82,12 +82,6 @@ Copy the JSON down and paste in repl then fill the vars
 ## Uffizzi Deployment Method
 [![Deploy on Uffizzi](https://telegra.ph/file/e464e609e43eb3dfdc144.png)](https://app.uffizzi.com/projects)
 
-```
-Login with your github
-Click Launch Dev Environment
-Choose your repo
-```
-
 ## Mongenius Deployment Method
 [![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
 
@@ -96,6 +90,12 @@ Choose your repo
 
 ## Okteto Deployment Method
 [![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
+
+```
+Login with your github
+Click Launch Dev Environment
+Choose your repo
+```
 
 
   
@@ -109,4 +109,4 @@ Choose your repo
 
 ## License
 
-The prabath-md is made available under the [GPL-3 license](https://github.com/TechwithAmee1/Dragon-MD-V4/blob/main/LICENCE). 
+The dragon-md is made available under the [GPL-3 license](https://github.com/TechwithAmee1/Dragon-MD-V4/blob/main/LICENCE). 
