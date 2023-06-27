@@ -55,11 +55,38 @@
 ## Replit Deployment Method
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/TechwithAmee1/Dragon-MD-V4)
 
+If ***RUN*** Doesn't work, paste these commands in repl shell
+
+```
+yarn
+npm i pm2 -g && pm2 start lib/client.js
+```
+Copy the JSON down and paste in repl then fill the vars
+
+```
+{
+  "SESSION_ID": "ID-Here",
+  "OWNER_NUMBER": "91xxxxxxxxxx",
+  "OWNER_NAME": "EREN JEAGER",
+  "OPENAI_API_KEY": "null",
+  "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
+  "PACK_INFO": "Sam;Pandey",
+  "PREFIX": "."
+   
+}
+```
+
 ## Koyeb Deployment Method
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/TechwithAmee1/Dragon-MD-V4&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94767453646&env[MONGODB_URI]&&env[OWNER_NAME]=ameesha&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://i.ibb.co/NF7FbF2/20230604-132133.png&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=SI&env[PACK_INFO]=ameesha;madebydragonmd&name=dragon-md&env[KOYEB_NAME]=dragon-md&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
 
 ## Uffizzi Deployment Method
 [![Deploy on Uffizzi](https://telegra.ph/file/e464e609e43eb3dfdc144.png)](https://app.uffizzi.com/projects)
+
+```
+Login with your github
+Click Launch Dev Environment
+Choose your repo
+```
 
 ## Mongenius Deployment Method
 [![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
