@@ -40,9 +40,7 @@
 
 ●. ***[SCAN QR CODE](https://citel-x.herokuapp.com/session)***
 
-●. ***Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
-
-●. ***Get a Mongodb uri from [railway.app](https://railway.app).***
+●. ***Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login) or [railway.app](https://railway.app).***
 
 ●.  ***Click [FORK](https://github.com/TechwithAmee1/Dragon-MD-V4/fork)***
 
