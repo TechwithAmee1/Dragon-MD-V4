@@ -52,16 +52,22 @@
 ## Heroku Deployment Method
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/TechwithAmee1/Dragon-MD-V4&template=https://github.com/TechwithAmee1/Dragon-MD-V4.git)
 
+## Replit Deployment Method
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/TechwithAmee1/Dragon-MD-V4)
 
+## Koyeb Deployment Method
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/TechwithAmee1/Dragon-MD-V4&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94767453646&env[MONGODB_URI]&&env[OWNER_NAME]=ameesha&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://i.ibb.co/NF7FbF2/20230604-132133.png&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=SI&env[PACK_INFO]=ameesha;madebydragonmd&name=dragon-md&env[KOYEB_NAME]=dragon-md&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
 
+## Uffizzi Deployment Method
 [![Deploy on Uffizzi](https://telegra.ph/file/e464e609e43eb3dfdc144.png)](https://app.uffizzi.com/projects)
-  
+
+## Mongenius Deployment Method
 [![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
- 
+
+## Railway Deployment Method
 [![Deploy on Railway](https://railway.app/button.svg)]()  Coming Soon.....
 
+## Okteto Deployment Method
 [![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
 
 
