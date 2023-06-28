@@ -8,15 +8,15 @@ const {
     formatp,
     fetchJson,
   } = require('../lib'),
-const { download } = require('aptoide-scraper'),
+const { download } = require("aptoide-scraper"),
 
 cmd({
-            pattern: 'apkdl'
-            desc: 'download playstore app'
-            react: '📂'
-            category: 'downloader'
-            filename: __filename
-
+            pattern: "apkdl",
+            desc: "download playstore app",
+            react: "📂",
+            category: "downloader",
+            filename: __filename,
+    },
 async(Void, citel, text) => {
   if (!text) {
             citel.reply(`_*🖇️ Give me a App Link or Name ❗*_\n*eg:-* _${prefix}apk [name or link]_`);
@@ -34,9 +34,9 @@ async(Void, citel, text) => {
     const dlink = { url: applink }
     const buttonMessage = {
       document: dlink,
-      mimetype: 'application/vnd.android.package-archive',
-      caption: '\nᴅʀᴀɢᴏɴ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0\n',
-      fileName: appname + '.apk',
+      mimetype: "application/vnd.android.package-archive",
+      caption: "\nᴅʀᴀɢᴏɴ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0\n",
+      fileName: appname + ".apk",
     }
     await Void.sendMessage(citel.chat, buttonMessage, {
         quoted: citel,
@@ -44,7 +44,7 @@ async(Void, citel, text) => {
 
   } catch (e) {
     console.log(e)
-        citel.reply('❌ *' + e + '*')
+        citel.reply("❌ *" + e + "*")
 
         citel.react("❌");
                     
