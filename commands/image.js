@@ -4,7 +4,7 @@ cmd({
            pattern: "imgdl",
            alias: ["imgdl","imgdl"],
            category: "search",
-           react: "🖼️️",
+           react: "🖼️",
            desc: "Searches Image on Google",
            use: "<text>",
            filename: __filename,
@@ -79,7 +79,7 @@ async(Void, citel, text) => {
         image: gimg,
         caption: cap,
       }
-      Void.sendMessage(citel.chat, txt2, { quoted: citel })
+      Void.sendMessage(citel.chat, msg, { quoted: citel })
     }
     await sleep(1000)
     citel.react("✅")
