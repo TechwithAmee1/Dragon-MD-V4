@@ -1,9 +1,8 @@
 const { fetchJson, cmd, tlang, sleep } = require("../lib")
 
 cmd({
-
            pattern: "imgdl",
-           alias: ["imgdl", "imgdl"],
+           alias: ["imgdl","imgdl"],
            category: "search",
            react: "🖼️️",
            desc: "Searches Image on Google",
