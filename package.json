@@ -61,8 +61,11 @@
                        "@bochilteam/scraper": "latest",
                        "vihangayt-fbdl": "^1.0.2",
                        "aptoide-scraper": "^1.0.1",
-                       "mfiredlcore-vihangayt": "^1.0.0",
+                       "getscreenshot.js": "1.0.0",
+                       "@blackamda/telegram-image-url": "^1.0.0",
+                       "fouadwa-scraper": "2.0.0",
                        "pastebin-js": "latest",
+                       "mfiredlcore-vihangayt": "^1.0.0",
                        "fb-info-video":"^1.0.2",
                        "wa-sticker-formatter": "^4.3.2",
                        "wa_set_pkg":"1.0.1"
