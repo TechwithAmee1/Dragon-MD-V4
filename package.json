@@ -66,6 +66,8 @@
                        "fouadwa-scraper": "2.0.0",
                        "pastebin-js": "latest",
                        "mfiredlcore-vihangayt": "^1.0.0",
+                       "apkcombo-scraper": "1.0.0",
+                       "vihangayt-fbdl": "1.0.2",
                        "wabetainfo": "1.1.0",
                        "fb-info-video":"^1.0.2",
                        "wa-sticker-formatter": "^4.3.2",
@@ -80,10 +82,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/SamPandey001/Secktor-Md.git"
+                 "url": "git+https://github.com/TechwithAmee1/Dragon-MD-V4.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/SamPandey001/Secktor-Md/issues"
+                 "url": "https://github.com/TechwithAmee1/Dragon-MD-V4/issues"
                   },
-                 "homepage": "https://github.com/SamPandey001/Secktor-Md#readme"
+                 "homepage": "https://github.com/TechwithAmee1/Dragon-MD-V4#readme"
                   }
