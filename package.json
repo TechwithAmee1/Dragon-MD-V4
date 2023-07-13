@@ -68,6 +68,8 @@
                        "mfiredlcore-vihangayt": "^1.0.0",
                        "@sl-code-lords/esana-news": "1.0.2",
                        "@sl-code-lords/wabetainfo": "latest",
+                       "@sl-code-lords/si-subdl": "1.1.1",
+                       "truecallerjs": "2.1.5",
                        "fb-info-video":"^1.0.2",
                        "wa-sticker-formatter": "^4.3.2",
                        "wa_set_pkg":"1.0.1"
