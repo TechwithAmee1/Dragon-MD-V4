@@ -1,7 +1,7 @@
 {
                "name": "Dragon-Md",
                "version": "4.0",
-               "description": "Multi device whatsapp bot by SamPandey001.",
+               "description": "Multi device whatsapp bot by Ameesha.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -58,7 +58,6 @@
                        "ytdl-secktor": "latest",
                        "googlebard": "latest",
                        "@blackamda/song_video_dl": "latest",
-                       "@bochilteam/scraper": "latest",
                        "vihangayt-fbdl": "latest",
                        "aptoide-scraper": "latest",
                        "getscreenshot.js": "latest",
