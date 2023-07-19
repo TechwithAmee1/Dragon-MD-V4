@@ -73,6 +73,7 @@
                        "@sl-code-lords/si-subdl": "latest",
                        "tech-news-scraper": "latest",
                        "nima-threads-dl-api": "latest",
+                       "@bochilteam/scraper-downloader": "latest",
                        "fouadwa-scraper": "latest",
                        "vihangayt-any-dl": "latest",
                        "truecallerjs": "latest",
