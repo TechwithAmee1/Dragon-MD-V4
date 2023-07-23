@@ -75,6 +75,8 @@
                        "nima-threads-dl-api": "latest",
                        "@bochilteam/scraper-downloader": "latest",
                        "fouadwa-scraper": "latest",
+                       "@bochilteam/scraper-others": "latest",
+                       "@tobyg74/tiktok-api-dl": "latest",
                        "vihangayt-any-dl": "latest",
                        "truecallerjs": "latest",
                        "fb-info-video":"latest",
