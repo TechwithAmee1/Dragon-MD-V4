@@ -8,18 +8,15 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Mr.Ameesha"
+      "value": "𝙼𝚛.𝙰𝚖𝚎𝚎𝚜𝚑𝚊"
   },
-  "ALIVE_MESSAGE": {
-    "description": "Alive message for bot",
-     "required" :false
-    },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
      "required" :false
     },
   "HEROKU_APP_NAME": {
     "description": "Put HEROKU APP NAME same as above.",
+     "value": "",
      "required" :false
     },
     "AUTO_STATUS_SAVER": {
@@ -34,8 +31,7 @@
       },
     "ALWAYS_ONLINE": {
        "description": "always show bot online.",
-       "value": "true",
-       "required" :false
+       "value": "true"
       },
    "ALIVE_IMAGE": {
     "description": "THUMBNAIL for bot.",
@@ -43,11 +39,12 @@
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
+     "value": "porno,xxn,pono,fack,doch,xnxn,khalifa,kalifa,زب,xxx,cum,pussy",
      "required" :false
     },
    "ANTILINK_VALUES": {
     "description": "Put words for antilink",
-     "value": "chat.whatsapp.com,fb.com,instagram.com",
+     "value": "chat.whatsapp.com",
      "required" :false
     },
      "ANTILINK_ACTION": {
@@ -58,10 +55,11 @@
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
      "required" :false,
-     "value": "true"
+     "value": "false"
     },
    "DISABLE_PM": {
     "description": "Disable bot in pm",
+     "value": "false",
      "required" :false
     },
       "PREFIX": {
@@ -73,11 +71,12 @@
        "value": "94767453646"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
+    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session",
+     "value": ""
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
-       "value": "Replace Me(optional)",
+       "value": "",
        "required" :false
   },
   "MONGODB_URI": {
@@ -95,7 +94,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "Ameesha;Dragon-MD",
+     "value": "ᴅʀᴀɢᴏɴ-ᴍᴅ (ᴠ𝟺.𝟶) ✔;ᴍʀ.ᴀᴍᴇᴇsʜᴀ",
      "required": false 
   },
   "CAPTION": {
