@@ -71,6 +71,7 @@
                        "tech-news-scraper": "latest",
                        "@bochilteam/scraper-downloader": "latest",
                        "@saipulanuar/tiktok-scraper-ts": "latest",
+                       "@xaviabot/fb-downloader": "latest",
                        "api-dylux": "latest",
                        "@xct007/frieren-scraper": "latest",
                        "fouadwa-scraper": "latest",
