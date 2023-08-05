@@ -83,7 +83,7 @@ Copy the JSON down and paste in repl then fill the vars
 [![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
 
 ## Railway Deployment Method
-[![Deploy on Railway](https://railway.app/button.svg)]()  Coming Soon.....
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/jxbUqE?referralCode=uWBrrv)
 
 ## Okteto Deployment Method
 [![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
