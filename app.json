@@ -1,18 +1,18 @@
 {
-  "name": "Dragon-MD-V4",
+  "name": "≛⃝🤍SUP𖼻R M𖼽N👑🇵🇰",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://i.ibb.co/wRgDy33/20221104-225109.png",
+  "logo": "https://i.imgur.com/FXFseWy.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Dragon-MD-V4", "DragonBot", "Dragon","DragonMD","multi device"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Mr.Ameesha"
+      "value": "≛⃝🤍SUP𖼻R M𖼽N👑🇵🇰"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
-     "required" :false
+     "required" :flase
     },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
@@ -39,7 +39,7 @@
       },
    "ALIVE_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://i.ibb.co/NF7FbF2/20230604-132133.png"
+     "value": "https://i.imgur.com/FXFseWy.jpeg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -70,7 +70,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94767453646"
+       "value": "263715078370"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here, Get from - https://replit.com/@AmiyaProgrammer/Dragon-MD-V4-QR?v=1"
@@ -100,7 +100,7 @@
   },
   "CAPTION": {
     "description": "Put Your Caption.",
-     "value": "_*🪄 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐎𝐮𝐫 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🪄*_ \nhttps://youtube.com/@Dragon-MD-OFC",
+     "value": "_*🪄 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐎𝐮𝐫 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🪄*_ \nhttps://youtube.com",
      "required": false 
   },
   "heroku": {
