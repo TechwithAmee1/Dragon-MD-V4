@@ -1,7 +1,7 @@
 {
                "name": "Dragon-Md",
                "version": "4.0",
-               "description": "Multi device whatsapp bot by SamPandey001.",
+               "description": "Multi device whatsapp bot by Mr.Ameesha.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
