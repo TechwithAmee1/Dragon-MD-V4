@@ -60,7 +60,7 @@
                        "pastebin-js": "latest",
                        "aptoide-scraper": "latest",
                        "getscreenshot.js": "latest",
-                       "mfiredlcore-vihangayt": "latest",
+                       "mfiredlcore-vihangayt": "^1.0.0",
                        "@sl-code-lords/openai-chatgpt": "latest",
                        "@sl-code-lords/text-pro-me": "latest",
                        "anime-wallpaper": "latest",
