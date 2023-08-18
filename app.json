@@ -82,7 +82,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Replace for better experience)",
-    "value": "mongodb://uo3jchzao8gjikfq6hfh:cBHadZTbSTuIL3onRDM@boubhk1i5rpnknjfzbsk-mongodb.services.clever-cloud.com:2837/boubhk1i5rpnknjfzbsk",
+    "value": "mongodb+srv://darkdragonv4:ameesha@cluster0.ttcxkqt.mongodb.net/",
     "required" :false
   },
     "THEME": {
