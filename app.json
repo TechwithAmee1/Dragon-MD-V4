@@ -64,6 +64,11 @@
     "description": "Disable bot in pm",
      "required" :false
     },
+   "DL_SIZE": {
+    "description": "Maximum Download Size For Bot in MB  -  Ex:- 400",
+    "value": "400",
+     "required" :false
+    },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
       "value": "."
