@@ -87,7 +87,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Replace for better experience)",
-    "value": "mongodb+srv://darkdragonv4:ameesha@cluster0.ttcxkqt.mongodb.net/",
+    "value": "mongodb+srv://darkdragonv4:ameesha@cluster0.ttcxkqt.mongodb.net",
     "required" :false
   },
     "THEME": {
