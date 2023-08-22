@@ -66,7 +66,7 @@ Copy the JSON down and paste in repl then fill the vars
   "OWNER_NUMBER": "91xxxxxxxxxx",
   "OWNER_NAME": "EREN JEAGER",
   "OPENAI_API_KEY": "null",
-  "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
+  "MONGODB_URI": "mongodb+srv://darkdragonv4:ameesha@cluster0.ttcxkqt.mongodb.net",
   "PACK_INFO": "Sam;Pandey",
   "PREFIX": "."
    
