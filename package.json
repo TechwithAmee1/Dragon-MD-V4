@@ -62,6 +62,7 @@
                        "getscreenshot.js": "latest",
                        "vihangayt-fbdl": "latest",
                        "mfiredlcore-vihangayt": "latest",
+                       "chatgpt-scraper": "latest",
                        "@sl-code-lords/openai-chatgpt": "latest",
                        "@sl-code-lords/text-pro-me": "latest",
                        "@sl-code-lords/image-library": "^1.0.0",

@@ -45,6 +45,11 @@
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
      "required" :false
     },
+   "ANTI_BOT": {
+   "description": "Remove Unknown Bots",
+   "value": "true",
+   "required" :false
+   },
    "ANTILINK_VALUES": {
     "description": "Put words for antilink",
      "value": "chat.whatsapp.com,fb.com,instagram.com",
@@ -62,8 +67,14 @@
     },
    "DISABLE_PM": {
     "description": "Disable bot in pm",
-     "required" :false
+    "value": "false",
+    "required" :false
     },
+   "PM_BLOCKER": {
+   "description": "block bot pm massage",
+   "value": "false",
+   "required" :false
+   },
    "DL_SIZE": {
     "description": "Maximum Download Size For Bot in MB  -  Ex:- 400",
     "value": "400",
