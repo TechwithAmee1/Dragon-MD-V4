@@ -1,5 +1,5 @@
 {
-  "name": "Dragon-MD-V4",
+  "name": "Anonymous bot",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://i.ibb.co/wRgDy33/20221104-225109.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Dragon-MD-V4", "DragonBot", "Dragon","DragonMD","multi device"],
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Mr.Ameesha"
+      "value": "Mr.Arslan"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
