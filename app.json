@@ -2,8 +2,17 @@
     "name": "Dragon-MD-V4",
     "description": "A Whatsapp md bot built in NodeJs to make experience better",
     "logo": "https://i.ibb.co/wRgDy33/20221104-225109.png",
-    "keywords": ["nodejs", "bot", "whatsapp bot", "Dragon-MD-V4", "DragonBot", "Dragon","DragonMD","multi device"],
-    "success_url": "/",
+    "keywords": [
+        "nodejs",
+        "bot",
+        "whatsapp bot",
+        "Dragon-MD-V4",
+        "DragonBot",
+        "Dragon",
+        "DragonMD",
+        "multi device"
+    ],
+    "success_url": "https://whatsapp.com/channel/0029VaBIKjbDzgTFi1qZLi0C",
     "env": {
         "OWNER_NAME": {
             "description": "Name of Bot Owner",
@@ -124,11 +133,11 @@
             "required": false 
         }
     },
-    "formation": [
+    "formation": {
 		"worker": {
 		    "quantity": 1,
-			"size": "basic"
+			"size": "standard-1x"
 		}
-	],
+	},
 	"stack": "container"
 }
